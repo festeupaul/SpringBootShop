@@ -1,6 +1,7 @@
-APP URL - [https://my-shop-application.netlify.app/](https://shop-paul.netlify.app/)
+APP URL - [https://shop-paul.netlify.app/]
 
-API Swagger Documentation - https://my-shop-app-fxdf.onrender.com/swagger-ui/index.html#/
+API Swagger Documentation - [https://my-shop-n0nv.onrender.com/swagger-ui/index.html#/]
+
 
 ## Documentație:
 
