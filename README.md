@@ -9,6 +9,24 @@ Spring Boot Shop is a comprehensive full-stack e-commerce web application design
 * **APP URL:** [https://shop-paul.netlify.app/](https://shop-paul.netlify.app/)
 * **API Swagger Documentation:** [https://my-shop-n0nv.onrender.com/swagger-ui/index.html#/](https://my-shop-n0nv.onrender.com/swagger-ui/index.html#/)
 
+## Login Test
+
+With these credentials, you can try the app yourself. 
+
+*CAUTION*
+
+**If the app hasn't been used in some time, it might take up to a minute for the server to wake up!**
+
+
+Credentials for admin: 
+* **User: admin**
+* **Password: admin**
+
+Credentials for customer: 
+* **User: customer**
+* **Password: customer**
+
+
 ## Architecture
 
 The application is built using a decoupled client-server architecture, ensuring a clear separation of concerns between the user interface and the business logic. 
